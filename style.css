@@ -75,11 +75,13 @@ section > p{
     box-shadow: inset 6px 6px 15px 0px rgba(0, 0, 0, 0.345);
     background-attachment: fixed;
     background-repeat: no-repeat;
+    padding-left: 10px;
 }
 
 .imagem > p{
     background-color: rgba(0, 0, 0, 0.438);
-    padding: 30px;
+    padding: 20px;
+    
     text-shadow: 2px 2px 0px black; 
    
     display: inline-block;
